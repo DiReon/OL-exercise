@@ -1,7 +1,7 @@
 {
   "name": "new-project",
   "dependencies": {
-    "ol": "6.6.0"
+    "ol": "7.1.0"
   },
   "devDependencies": {
     "parcel": "^2.0.0-beta.1"
